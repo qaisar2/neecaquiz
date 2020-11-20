@@ -1,0 +1,81 @@
+<quiz>
+  <item>
+    <question> ________ ventilation is much cheaper and easier way to deliver fresh air to buildings.</question>
+    <choices>Mechanical</choices>
+    <choices>Natural</choices>
+    <choices>Automatic</choices>
+    <choices>None of the above</choices>
+    <correctAnswer>1</correctAnswer>
+  </item>
+  <item>
+    <question>LED light source/bulb requires _________ as compare toCompact Fluorescent Lamp (CFL).</question>
+    <choices>Medium Energy</choices>
+    <choices>Less Energy</choices>
+    <choices>High Energy</choices>
+    <choices>Same Energy</choices>
+    <correctAnswer>1</correctAnswer>
+  </item>
+  <item>
+    <question>Which Greenhouse Gas(s) can be reduced by lowering energy consumption of Building?</question>
+    <choices>Carbon Dioxide</choices>
+    <choices>Nitrous oxide</choices>
+    <choices>Methane</choices>
+    <choices>All of the above</choices>
+    <correctAnswer>3</correctAnswer>
+  </item>
+  <item>
+    <question>Which one of the following light sources is most efficient?</question>
+    <choices>Compact Florescent Light-CFL</choices>
+    <choices>Light Emitting Diode -LED Light</choices>
+    <choices>Incandescent Bulb</choices>
+    <choices>Halogens Lamps</choices>
+    <correctAnswer>1</correctAnswer>
+  </item>
+  <item>
+    <question>A building which useday light effectively can ________ heat gain during the winter, and ________ heat gain during the summer.</question>
+    <choices>Increases, reduces</choices>
+    <choices>reduces, increases</choices>
+    <choices>reduces, reduces</choices>
+    <choices>Increases, increases</choices>
+    <correctAnswer>0</correctAnswer>
+  </item>
+  <item>
+    <question>A well-design building with insulation will _______ the building Temperature.</question>
+    <choices>Not affect</choices>
+    <choices>Increases</choices>
+    <choices>Decrease</choices>
+    <correctAnswer>2</correctAnswer>
+  </item>
+  <item>
+    <question>Building Energy code is an upgradation in building _________ that promotes efficiency, environmental protection, health and safety.</question>
+    <choices>Standard</choices>
+    <choices>Feature</choices>
+    <choices>Management</choices>
+    <choices>System</choices>
+    <correctAnswer>0</correctAnswer>
+  </item>
+  <item>
+    <question>Which of the following energy source(s)can be utilize to meet the Building energy demand?</question>
+    <choices>Electrical Energy</choices>
+    <choices>Renewable Energy</choices>
+    <choices>Thermal Energy</choices>
+    <choices>All the above</choices>
+    <correctAnswer>3</correctAnswer>
+  </item>
+  <item>
+    <question>Which of the following practice will increase energy efficiency of building?</question>
+    <choices>Insulating roof and walls</choices>
+    <choices>Replacing inefficient appliances</choices>
+    <choices>Installation of energyefficient LEDs</choices>
+    <choices>All of above</choices>
+    <correctAnswer>3</correctAnswer>
+  </item>
+  <item>
+    <question>Energy Efficiency is the goal to __________ the amount of energy required to provide products and services.</question>
+    <choices>Increase</choices>
+    <choices>Reduce</choices>
+    <choices>Stabilize</choices>
+    <choices>None</choices>
+    <correctAnswer>1</correctAnswer>
+  </item>
+</quiz>
